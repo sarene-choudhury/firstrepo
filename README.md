@@ -10,3 +10,46 @@
 | F |   |   |   |   | D,A |   |   |   |   | D,A |
 | G | D | A | A | A | A | D,A | A |   | A | A |
 | H | I,A |   | I,A |   | I,A |   |   | I,A |   | I,A |
+
+
+1B) Skills (Languages)
+
+S, Sarene: python, java, javascript, arduino, R, html, c++, scala, xcode, terminal 
+I, Isha: Java, Scala, HTML, terminal 
+D, Devika: HTML-CSS, Python, terminal 
+A, Aashna: Java, Python, HTML
+
+2A) Individual responsibilities
+
+Each member is responsible for completing tasks & assignments before the assigned deadline. If an emergency occurs that impedes the completion of said deadline, or the member is otherwise unable to complete the task, they must communicate with the other team members well before the deadline.
+
+	Members must be reachable. They are expected to respond to or otherwise acknowledge communications (text, snap etc.) within 24hrs.
+
+	Each member should respect teammates and provide help when needed. Nobody should make fun of anyone for not knowing something. 
+
+
+
+3) General Meeting Schedule
+
+The team will try and meet during B periods when we do not have software engineering. Smaller groups can meet and we can catch up with whoever can not meet later. 
+
+4) Plan for Rotating Note-Keeper
+If someone is feeling like taking notes one day, then they can, and then we can rotate based on that. 
+
+5) Accountability
+
+Individuals will be held accountable through the team contract. If a teammate is not reachable or not putting in the work then we will talk to them or even involve Ms. Feng. 
+
+6) Conflict
+
+We will always discuss issues and whatever is going on. If we need extra help dealing with conflict, we can involve Ms. Feng. 
+
+7) Code of Ethics
+
+Act respectfully
+Don’t be mean 
+Be chill/flexible 
+Help each other and work together 
+Stay in constant communication
+
+
