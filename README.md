@@ -23,9 +23,9 @@ A, Aashna: Java, Python, HTML
 
 Each member is responsible for completing tasks & assignments before the assigned deadline. If an emergency occurs that impedes the completion of said deadline, or the member is otherwise unable to complete the task, they must communicate with the other team members well before the deadline.
 
-	Members must be reachable. They are expected to respond to or otherwise acknowledge communications (text, snap etc.) within 24hrs.
+Members must be reachable. They are expected to respond to or otherwise acknowledge communications (text, snap etc.) within 24hrs.
 
-	Each member should respect teammates and provide help when needed. Nobody should make fun of anyone for not knowing something. 
+Each member should respect teammates and provide help when needed. Nobody should make fun of anyone for not knowing something. 
 
 
 
@@ -46,10 +46,10 @@ We will always discuss issues and whatever is going on. If we need extra help de
 
 7) Code of Ethics
 
-Act respectfully
-Don’t be mean 
-Be chill/flexible 
-Help each other and work together 
-Stay in constant communication
+Act respectfully\
+Don’t be mean\
+Be chill/flexible\ 
+Help each other and work together\ 
+Stay in constant communication\
 
 
