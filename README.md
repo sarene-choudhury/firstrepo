@@ -33,8 +33,9 @@ Each member should respect teammates and provide help when needed. Nobody should
 
 The team will try and meet during B periods when we do not have software engineering. Smaller groups can meet and we can catch up with whoever can not meet later. 
 
-4) Plan for Rotating Note-Keeper
-If someone is feeling like taking notes one day, then they can, and then we can rotate based on that. 
+4) Plan for Note-Keeping
+
+Everyone is expected to take their own notes, but if someone is absent or has another valid reason, members will share notes for that time.  
 
 5) Accountability
 
@@ -42,7 +43,7 @@ Individuals will be held accountable through the team contract. If a teammate is
 
 6) Conflict
 
-We will always discuss issues and whatever is going on. If we need extra help dealing with conflict, we can involve Ms. Feng. 
+We will always discuss issues and whatever is going on maturely, though we will try to avoid conflict by keeping in constant communication. If we need extra help dealing with conflict, we can involve Ms. Feng. 
 
 7) Code of Ethics
 
