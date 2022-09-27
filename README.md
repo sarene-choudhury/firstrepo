@@ -1,4 +1,4 @@
-**1A) Schedule**
+## 1A) Schedule
 
 | Frees | Day 1 | Day 2 | Day 3 | Day 4 | Day 5 | Day 6 | Day 7 | Day 8 | Day 9 | Day 10 |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -11,24 +11,24 @@
 | G | D | A | A | A | A | D,A | A |   | A | A |
 | H | I,A |   | I,A |   | I,A |   |   | I,A |   | I,A |
 
+## 1B) Skills (Languages)
 
-1B) Skills (Languages)
-
-S, Sarene: python, java, javascript, arduino, R, html, c++, scala, xcode, terminal 
-I, Isha: Java, Scala, HTML, terminal 
-D, Devika: HTML-CSS, Python, terminal 
+S, Sarene: python, java, javascript, arduino, R, html, c++, scala, xcode, terminal
+I, Isha: Java, Scala, HTML, terminal
+D, Devika: HTML-CSS, Python, terminal
 A, Aashna: Java, Python, HTML
 
-2A) Individual responsibilities
+## 2) Individual responsibilities
 
 Each member is responsible for completing tasks & assignments before the assigned deadline. If an emergency occurs that impedes the completion of said deadline, or the member is otherwise unable to complete the task, they must communicate with the other team members well before the deadline.
 
-Members must be reachable. They are expected to respond to or otherwise acknowledge communications (text, snap etc.) within 24hrs.
+Members must be reachable. They are expected to respond to or otherwise acknowledge communications (**text, snap** etc.) within 24hrs.
 
 Each member should respect teammates and provide help when needed. Nobody should make fun of anyone for not knowing something. 
 
-The starting roles will have Isha as Project Manager, Sarene as Presenter, Aashna and Devika as Quality Control. The roles will rotate for each new project we have.
-
+~~The starting roles will have Isha as Project Manager, Sarene as Presenter, Aashna and Devika as Quality Control. The roles will rotate for each new project we have.~~
+The roles have since updated since we have 4 each: https://docs.google.com/document/d/1WPr9gjBSZYMj4JDG7SY2Zg-5qhIe_93hlpgT5klfe1g/edit#heading=h.1iul85mf7dax 
+Can you decide on a rotating schedule until this is correct? 
 
 3) General Meeting Schedule
 
@@ -48,10 +48,15 @@ We will always discuss issues and whatever is going on maturely, though we will 
 
 7) Code of Ethics
 
-Act respectfully\
-Don’t be mean\
-Be chill/flexible\ 
-Help each other and work together\ 
-Stay in constant communication\
+- Act respectfully
+- Don’t be mean
+- Be chill/flexible\
+- Help each other and work together
+- Stay in constant communication
 
+## Things TODO
 
+- [x] Ms. Feng posts comments on a new branch (teacher_revisions)
+- [ ] Update roles
+- [ ] Individual Responsibilities section for task tracking / code management
+- [ ] Fix Markdown and make it pretty (optional)
