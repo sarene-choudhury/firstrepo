@@ -26,9 +26,8 @@ Members must be reachable. They are expected to respond to or otherwise acknowle
 
 Each member should respect teammates and provide help when needed. Nobody should make fun of anyone for not knowing something. 
 
-~~The starting roles will have Isha as Project Manager, Sarene as Presenter, Aashna and Devika as Quality Control. The roles will rotate for each new project we have.~~
 The roles have since updated since we have 4 each: https://docs.google.com/document/d/1WPr9gjBSZYMj4JDG7SY2Zg-5qhIe_93hlpgT5klfe1g/edit#heading=h.1iul85mf7dax 
-Can you decide on a rotating schedule until this is correct? 
+Can you decide on a rotating schedule until this is correct?
 
 3) General Meeting Schedule
 
